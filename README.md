@@ -1,4 +1,4 @@
-<h1> TELA INICIAL NETFLIX </h1>
+<h1> TELA INICIAL <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix-Logo"> </h1>
 
 <h2>Esse foi um projeto que eu aprendi em um dos lançamentos do <a href="https://rodolfomori.com.br/devclub/"> DevClub</a> </h2>
 
